@@ -1,0 +1,18 @@
+# Normalise line endings and mark binary files.
+* text=auto
+
+*.R     text eol=lf
+*.Rmd   text eol=lf
+*.md    text eol=lf
+*.csv   text eol=lf
+*.tsv   text eol=lf
+*.yml   text eol=lf
+*.yaml  text eol=lf
+*.cff   text eol=lf
+
+*.pdf   binary
+*.png   binary
+*.jpg   binary
+*.rds   binary
+*.h5    binary
+*.xlsx  binary

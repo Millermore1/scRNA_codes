@@ -1,0 +1,56 @@
+species,celltype,gene,role
+human,Excitatory.neurons,SLC17A7,canonical marker
+human,Excitatory.neurons,SLC17A6,canonical marker
+human,Excitatory.neurons,SLC17A8,canonical marker
+human,Excitatory.neurons,CAMK2A,canonical marker
+human,Excitatory.neurons,SATB2,canonical marker
+human,Excitatory.neurons,NEUROD6,canonical marker
+human,Inhibitory.neurons,GAD1,canonical marker
+human,Inhibitory.neurons,GAD2,canonical marker
+human,Inhibitory.neurons,SLC32A1,canonical marker
+human,Inhibitory.neurons,PVALB,canonical marker
+human,Inhibitory.neurons,SST,canonical marker
+human,Inhibitory.neurons,VIP,canonical marker
+human,Oligodendrocytes,MOG,canonical marker
+human,Oligodendrocytes,MBP,canonical marker
+human,Oligodendrocytes,OLIG1,canonical marker
+human,Oligodendrocytes,PLP1,canonical marker
+human,Astrocytes,SLC1A3,canonical marker
+human,Astrocytes,GFAP,canonical marker
+human,Astrocytes,AQP4,canonical marker
+human,Astrocytes,ALDH1L1,canonical marker
+human,Microglia,P2RY12,canonical marker
+human,Microglia,CSF1R,canonical marker
+human,Microglia,TMEM119,canonical marker
+human,Microglia,CX3CR1,canonical marker
+human,Endothelial.cells,CLDN5,canonical marker
+human,Endothelial.cells,PECAM1,canonical marker
+human,Endothelial.cells,ABCB1,canonical marker
+human,Endothelial.cells,VWF,canonical marker
+mouse,Excitatory neurons,Slc17a7,canonical marker
+mouse,Excitatory neurons,Slc17a6,canonical marker
+mouse,Excitatory neurons,Camk2a,canonical marker
+mouse,Excitatory neurons,Satb2,canonical marker
+mouse,Inhibitory neurons,Gad1,canonical marker
+mouse,Inhibitory neurons,Gad2,canonical marker
+mouse,Inhibitory neurons,Slc6a1,canonical marker
+mouse,Inhibitory neurons,Pvalb,canonical marker
+mouse,Inhibitory neurons,Sst,canonical marker
+mouse,Inhibitory neurons,Vip,canonical marker
+mouse,Oligodendrocyte,Mog,canonical marker
+mouse,Oligodendrocyte,Mbp,canonical marker
+mouse,Oligodendrocyte,Plp1,canonical marker
+mouse,OPC,Pdgfra,canonical marker
+mouse,OPC,Cspg4,canonical marker
+mouse,OPC,Olig2,canonical marker
+mouse,Astrocyte,Aqp4,canonical marker
+mouse,Astrocyte,Gfap,canonical marker
+mouse,Astrocyte,Aldh1l1,canonical marker
+mouse,Microglia,P2ry12,canonical marker
+mouse,Microglia,Cx3cr1,canonical marker
+mouse,Microglia,Tmem119,canonical marker
+mouse,Endothelial cells,Pecam1,canonical marker
+mouse,Endothelial cells,Cldn5,canonical marker
+mouse,Endothelial cells,Kdr,canonical marker
+human,Inhibitory.neurons,PRMT8,gene of interest
+mouse,Inhibitory neurons,Prmt8,gene of interest

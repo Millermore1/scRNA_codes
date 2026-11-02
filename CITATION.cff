@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below and this software repository."
+title: "PRMT8 in inhibitory neurons: single-nucleus RNA-seq analysis pipeline"
+abstract: >-
+  Analysis code for a study of PRMT8 in inhibitory neurons, combining a
+  multi-cohort human brain snRNA-seq atlas (Alzheimer's disease, Parkinson's
+  disease, multiple sclerosis, epilepsy and controls), a mouse Prmt8
+  conditional-knockout atlas with chemogenetic (Gq-DREADD) manipulation, and
+  human cortical organoids (GSE203201).
+version: 1.0.0
+date-released: "2026-11-02"
+license: MIT
+
+authors:
+  - family-names: Huang
+    given-names: William
+    # TODO: replace with your full name as it should appear in the citation,
+    # add your ORCID and affiliation, e.g.
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+    # affiliation: "Your Institute, Your City, China"
+    email: "MillerMore1@users.noreply.github.com"
+
+# TODO: uncomment and fill in once the paper is accepted.
+# preferred-citation:
+#   type: article
+#   title: "PRMT8 in inhibitory neurons ..."
+#   authors:
+#     - family-names: Huang
+#       given-names: William
+#   journal: ""
+#   year: 2026
+#   doi: "10.xxxx/xxxxx"
+
+repository-code: "https://github.com/MillerMore1/scRNA_codes"
+keywords:
+  - single-nucleus RNA-seq
+  - PRMT8
+  - inhibitory neurons
+  - parvalbumin
+  - Alzheimer's disease
+  - Parkinson's disease
+  - multiple sclerosis
+  - chemogenetics
+  - reproducibility

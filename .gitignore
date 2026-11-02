@@ -1,0 +1,55 @@
+# ---- R session artefacts -----------------------------------------------------
+.Rproj.user/
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*.RData
+
+# ---- R build / check ---------------------------------------------------------
+*.Rcheck/
+*.tar.gz
+_*_cache/
+
+# ---- Large data files --------------------------------------------------------
+data/raw/*
+!data/raw/README.md
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+*.rds
+*.h5
+*.h5ad
+*.mtx
+*.mtx.gz
+*.loom
+*.bam
+*.bai
+*.fastq
+*.fastq.gz
+*.fq.gz
+
+# ---- Pipeline outputs --------------------------------------------------------
+results/figures/*
+!results/figures/.gitkeep
+results/tables/*
+!results/tables/.gitkeep
+results/objects/*
+!results/objects/.gitkeep
+results/session_info.txt
+
+# ---- Intermediates -----------------------------------------------------------
+*.log
+*.tmp
+*.out
+__hdd_tom_tmp/
+
+# ---- OS / editor -------------------------------------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~

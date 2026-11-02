@@ -1,0 +1,5 @@
+group,label,description
+WT,Wild type,Control littermates; no viral manipulation
+KOF,Prmt8 cKO,Prmt8 conditional knockout; no viral manipulation
+KOF_vector_CNO,Prmt8 cKO + control vector + CNO,cKO with control virus and CNO injection (chemogenetic control)
+KOF_Gq_CNO,Prmt8 cKO + hM3Dq + CNO,cKO with Gq-coupled DREADD and CNO injection (chemogenetic activation)
